@@ -1,0 +1,67 @@
+body {
+     
+
+ 
+}
+
+h3 {
+    text-align:center;
+    position: relative;
+    top: -65px;
+    left: -40px;
+
+
+}
+
+h4 {
+    text-align: right;
+    position: relative;
+    top: -145px;
+    left: -40px;
+}
+
+.pict {
+display: flex;  
+justify-content:space-between;
+border-radius: 20px;
+padding-block: "50px";  
+width: 300px;
+height: 280px;
+
+}
+.column{
+    
+    display: flex;
+    justify-content: space-evenly;
+
+    
+    
+}
+.row{
+    padding-left: 20px;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    scroll-margin-inline-end: 30px;
+}
+.container_case-recherche{
+     
+    display: flex;
+    justify-content: center;
+    padding-bottom: -50px;
+    
+
+}
+
+.container_icones{
+    
+    display: flex;
+    justify-content: space-around;
+
+}
+
+
+.container_icones img{
+
+    width: 35px;
+}
+
